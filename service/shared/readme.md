@@ -1,4 +1,4 @@
-﻿# Shared Scripts
+# Shared Scripts
 
 The 'shared' folder in your repository contains code that is reused by other scripts in your mobile service, or special utility functions such as collecting feedback from [APNS](http://go.microsoft.com/fwlink/p/?linkid=272584&clcid=0x409).
 
